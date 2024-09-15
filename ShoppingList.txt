@@ -5,3 +5,4 @@ Shopping List:
 3. Bananas
 4. Cherries
 5. Carrots
+6. Cereal
